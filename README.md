@@ -1,2 +1,2 @@
 ### YouTube Clone
-![Showcase Picture](https://github.com/Nulzn/YouTubeClone/showcase.png?raw=true)
+![Showcase Picture](https://github.com/Nulzn/YoutubeClone/blob/main/showcase.png?raw=true)
