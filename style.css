@@ -2,7 +2,7 @@
     --textColor: rgba(255, 255, 255, .65);
     --borderColor: rgba(105, 105, 105, .3);
     --activeBorderColor: rgba(0, 81, 255, 0.5);
-    --button-background: rgba(118, 118, 118, 0.98);
+    --button-background: rgba(118, 118, 118, 0.32);
 }
 
 * {
@@ -87,6 +87,10 @@ body {
     cursor: pointer;
 }
 
+.button-searchWithVoice {
+    background-color: rgba(211, 211, 211, .1) !important;
+}
+
 .navbar:nth-child(1) {
     color: rgba(255, 255, 255, .65);
     font-size: x-large;
@@ -149,6 +153,10 @@ ion-icon {
     color: rgba(255, 255, 255, 0.7);
     padding: 8px 5px 8px 5px;
     border-radius: 8px;
+}
+
+.link-home {
+    background-color: var(--button-background);
 }
 
 .link-personal {
